@@ -11,6 +11,8 @@
 + Scipy (optional)
 + Plotly (optional)
 + Mayavi (optional)
++ Seaborn (optional)
++ holoviews (optional)
 + VTK (optional)
 + Qt (optional)
 + Chrome (optional, to view html version)
