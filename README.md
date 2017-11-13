@@ -1,21 +1,9 @@
 # Ilya
-> Supply universal interfaces for python to draw plot
-
-## Features
-+ 1D/2D/3D plot
-...
+> 3D reconstruction from multiple images
 
 ## Required Libraries
 + Numpy
 + Matplotlib
-+ Scipy (optional)
-+ Plotly (optional)
-+ Mayavi (optional)
-+ Seaborn (optional)
-+ holoviews (optional)
-+ VTK (optional)
-+ Qt (optional)
-+ Chrome (optional, to view html version)
 
 ## Status
 Working on it...
