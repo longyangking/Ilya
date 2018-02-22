@@ -1,6 +1,16 @@
 # Ilya
 > 3D reconstruction from multiple images
 
+## Key-words
++ Tomographic reconstruction
++ Radon Transformation(or sinogram), Fourier/Inverse Fourier Transformation, Hilbert Transformation
++ Projection-slice theorem
++ Fourier-Domain Reconstruction Algorithm
++ Back Projection Algorithm
++ Iterative Reconstruction Algorithm
++ Fan-Beam Reconstruction
++ Algebraic reconstruction technique (ART)
+
 ## Required Libraries
 + Numpy
 + Matplotlib
