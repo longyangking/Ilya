@@ -1,6 +1,8 @@
 # Ilya
 > 3D reconstruction from multiple images
 
+![](./pics/fig.png)
+
 ## Key-words
 + Tomographic reconstruction
 + Radon Transformation(or sinogram), Fourier/Inverse Fourier Transformation, Hilbert Transformation
@@ -10,6 +12,7 @@
 + Iterative Reconstruction Algorithm
 + Fan-Beam Reconstruction
 + Algebraic reconstruction technique (ART)
++ Kaczmarz method
 
 ## Required Libraries
 + Numpy
