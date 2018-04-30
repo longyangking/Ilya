@@ -4,19 +4,24 @@
 ![](./pics/fig.png)
 
 ## Key-words
-+ Tomographic reconstruction
-+ Radon Transformation(or sinogram), Fourier/Inverse Fourier Transformation, Hilbert Transformation
-+ Projection-slice theorem
-+ Fourier-Domain Reconstruction Algorithm
-+ Back Projection Algorithm
-+ Iterative Reconstruction Algorithm
-+ Fan-Beam Reconstruction
-+ Algebraic reconstruction technique (ART)
-+ Kaczmarz method
++ Mathematical methods
+    + Tomographic reconstruction
+    + Radon Transformation(or sinogram), Fourier/Inverse Fourier Transformation, Hilbert Transformation
+    + Projection-slice theorem
+    + Fourier-Domain Reconstruction Algorithm
+    + Back Projection Algorithm
+    + Iterative Reconstruction Algorithm
+    + Fan-Beam Reconstruction
+    + Algebraic reconstruction technique (ART)
+    + Kaczmarz method
+
++ Machine learning based methods
+    + Deep learning
 
 ## Required Libraries
 + Numpy
 + Matplotlib
++ Keras/Tensorflow (Required for machine learning)
 
 ## Status
 Working on it...
